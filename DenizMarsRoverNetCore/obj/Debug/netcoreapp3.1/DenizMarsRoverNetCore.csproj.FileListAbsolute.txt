@@ -1,0 +1,12 @@
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/bin/Debug/netcoreapp3.1/DenizMarsRoverNetCore.deps.json
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/bin/Debug/netcoreapp3.1/DenizMarsRoverNetCore.runtimeconfig.json
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/bin/Debug/netcoreapp3.1/DenizMarsRoverNetCore.runtimeconfig.dev.json
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/bin/Debug/netcoreapp3.1/DenizMarsRoverNetCore.dll
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/bin/Debug/netcoreapp3.1/DenizMarsRoverNetCore.pdb
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/obj/Debug/netcoreapp3.1/DenizMarsRoverNetCore.csprojAssemblyReference.cache
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/obj/Debug/netcoreapp3.1/DenizMarsRoverNetCore.AssemblyInfoInputs.cache
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/obj/Debug/netcoreapp3.1/DenizMarsRoverNetCore.AssemblyInfo.cs
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/obj/Debug/netcoreapp3.1/DenizMarsRoverNetCore.csproj.CoreCompileInputs.cache
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/obj/Debug/netcoreapp3.1/DenizMarsRoverNetCore.dll
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/obj/Debug/netcoreapp3.1/DenizMarsRoverNetCore.pdb
+/Users/aycadenizkertmen/Projects/DenizMarsRoverNetCore/DenizMarsRoverNetCore/obj/Debug/netcoreapp3.1/DenizMarsRoverNetCore.genruntimeconfig.cache

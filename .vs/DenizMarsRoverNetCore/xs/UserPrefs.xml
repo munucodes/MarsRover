@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{6AD0439E-530E-4B92-97FD-3345ADC7912F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DenizMarsRoverNetCore/CardinalCompassPoint.cs">
+    <Files>
+      <File FileName="DenizMarsRoverNetCore/Program.cs" Line="96" Column="70" />
+      <File FileName="DenizMarsRoverNetCore/Rover.cs" Line="44" Column="34" />
+      <File FileName="DenizMarsRoverNetCore/CardinalCompassPoint.cs" Line="11" Column="2" />
+      <File FileName="DenizMarsRoverNetCore/Plateu.cs" Line="4" Column="24" />
+      <File FileName="MarsRoverNetCoreTests/Rover.cs" Line="43" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DenizMarsRoverNetCore" expanded="True">
+            <Node name="DenizMarsRoverNetCore.UnitTests" expanded="True" selected="True" />
+            <Node name="MarsRoverNetCoreTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>initialPosition.Split(" ")[2]</Value>
+          <Value>canParseCardinal</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DenizMarsRoverNetCore" expanded="True">
+            <Node name="DenizMarsRoverNetCore.UnitTests" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DenizMarsRoverNetCore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
