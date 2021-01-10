@@ -1,3 +1,7 @@
+# Problems with the code
+Objects are very messy. Should have a Position object for the rover.
+Was never happy with the cardinal points' switch cases when turning. Should implement sth better.
+
 # MarsRover
 Mars Rover project with unit test in c# (.Net Core framework is used.)
 
@@ -40,3 +44,4 @@ MMRMMRMRRM
 Expected Output:
 1 3 N
 5 1 E
+
